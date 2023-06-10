@@ -1,4 +1,4 @@
-`# 단위테스트
+# 단위테스트
 
 ![](<../../.gitbook/assets/image (1).png>)
 
@@ -7,5 +7,3 @@
 * 📖 매주 1 Chapter씩
 
 [![Hits](https://hits.sh/taetaetae.gitbook.io/docs/test/unit-testing.svg?view=today-total)](https://hits.sh/taetaetae.gitbook.io/docs/test/unit-testing/)
-
-`
