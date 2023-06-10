@@ -23,7 +23,7 @@
   * [1. 단위 테스트의 목표](test/unit-testing/1.md)
   * [2. 단위 테스트란 무엇인가](test/unit-testing/2.md)
 
-## 🧘🏻Psychology
+## 🧘🏻psychology
 
-* [도둑맞은 집중력](Psychology/Stolen-Focus/README.md)
-  * [1. 너무 빠른 속도, 너무 잦은 멀티태스킹](Psychology/Stolen-Focus/1.md)
+* [도둑맞은 집중력](psychology/Stolen-Focus/README.md)
+  * [1. 너무 빠른 속도, 너무 잦은 멀티태스킹](psychology/Stolen-Focus/1.md)
